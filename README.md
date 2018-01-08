@@ -1,6 +1,6 @@
 ## My PHP Skeleton Project
 
-This repository will be used when creating a new PHP project/library
+This repository will be used when creating a new PHP library repository
 
 ```sh
 composer create-project chadicus/skeleton [project name]
