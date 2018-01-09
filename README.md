@@ -10,3 +10,4 @@ composer create-project chadicus/skeleton [project name]
 ```sh
 mv gitattributes .gitattributes
 ```
+## Update LICENSE file as needed.
