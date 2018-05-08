@@ -2,13 +2,7 @@
     "name": "chadicus/skeleton",
     "description": "Project Skeleton",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Chad Gray",
-            "email": "chadwickgray@gmail.com",
-            "role": "Developer"
-        }
-    ],
+    "keywords": [],
     "require": {
         "php": "^7.0"
     },
