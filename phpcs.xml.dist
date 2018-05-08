@@ -2,6 +2,7 @@
 <ruleset name="PHP_CodeSniffer">
     <file>.</file>
     <exclude-pattern>*/vendor/*</exclude-pattern>
+    <arg name="colors" />
     <arg value="p" />
     <rule ref="./vendor/chadicus/coding-standard/Chadicus"/>
 </ruleset>
